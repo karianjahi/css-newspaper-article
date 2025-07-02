@@ -10,7 +10,7 @@ This project presents a breaking news-style webpage reporting on the digital upr
 *Youth-led digital resistance challenges Kenya's tribal political status quo, sparking nationwide protests and a fierce government response*
 
 ## 📁 Project Structure
-
+```
 css-newspaper-article/
 ├── images/
 │ └── preview.png # Screenshot preview of the newspaper article page
@@ -19,7 +19,7 @@ css-newspaper-article/
 ├── .gitignore # Git ignore file for deployment
 └── README.md # Project documentation
 
-
+```
 ## 🌐 Technologies Used
 
 - **HTML5**: Semantic elements (`<article>`, `<time>`, `<p>`, `<div>`) for clean document structure
